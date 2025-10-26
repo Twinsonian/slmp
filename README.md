@@ -7,4 +7,4 @@ This uses pip pygame and ffprobe from the system. I will work on including the f
 
 The player offers the ability to navigate to local folders. My family and I love the experience and I will continue to iron out any found bugs and slowly add features over time.
 
-
+Credit and link to source appreciated but certainly not required.
